@@ -1,0 +1,62 @@
+#sec1 {
+    border-style: solid;
+    height: 160px;
+    width: 160px;
+    border-color: rgb(241, 153, 215);
+}
+
+#sec1 .box {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(94, 253, 2);
+}
+
+#sec1 div:nth-child(even) {
+    border-style: solid;
+    border-color: grey;
+    box-sizing: border-box;
+}
+
+#sec1 #left {
+    margin-left: 120px;
+}
+
+#sec1 #mid {
+    margin-left: 80px;
+}
+
+#sec1 #right {
+    margin-left: 40px
+}
+
+/* --------------Neue Treppe--------------- */
+
+#sec2 #box {
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: orange;
+    box-sizing: border-box;
+}
+
+#sec2 #line2 {
+    width: 40px;
+    height: 40px;
+    background-color: orangered;
+    padding-left: 40px;
+}
+
+#sec2 #line3 {
+    width: 40px;
+    height: 40px;
+    background-color: orangered;
+    padding-left: 80px;
+}
+
+#sec2 #line4 {
+    width: 40px;
+    height: 40px;
+    background-color: orangered;
+    padding-left: 120px;
+}
