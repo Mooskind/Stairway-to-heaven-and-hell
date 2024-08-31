@@ -1,2 +1,3 @@
 # Stairway-to-heaven-and-hell
-Playing with margin and padding
+
+This was an exercise from my training to experiment with margin and padding and to position elements as desired using CSS. 
